@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Relation in part of what passed through a true and faithful servant and handmaid of the Lord, Mary Page, when she lay upon her bed of sickness, as followeth with an exhortation to all friends to wait, to dwell in the cross of Christ Jesus, given forth b the same spirit, though through another vessel.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92347</idno>
+            <idno type="STC">Wing R782</idno>
+            <idno type="STC">ESTC R217063</idno>
+            <idno type="EEBO-CITATION">42475148</idno>
+            <idno type="OCLC">ocm 42475148</idno>
+            <idno type="VID">151302</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92347)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151302)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2254:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Relation in part of what passed through a true and faithful servant and handmaid of the Lord, Mary Page, when she lay upon her bed of sickness, as followeth with an exhortation to all friends to wait, to dwell in the cross of Christ Jesus, given forth b the same spirit, though through another vessel.</title>
+                  <author>Page, Mary, d. 1665.</author>
+                  <author>Wills, Daniel. Exhortation to all Friends to dwell in the cross of our Lord Jesus Christ.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information from Wing (2nd ed.).</note>
+                  <note>Second part, "An exhortation to all Friends to dwell in the cross of our Lord Jesus Christ" signed, Daniel Wills.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Page, Mary, d. 1665.</term>
+               <term>Last words --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="deathbed_account">
+            <pb facs="tcp:151302:1" rendition="simple:additions"/>
+            <head>A RELATION IN Part of what paſſed through a true and faithful Servant and Handmaid of the Lord, <hi>Mary Page,</hi> when ſhe lay upon her bed of Sickneſs, as followeth. With an Exhortation to all Friends to wait, to dwell in the Croſs of Chriſt Jeſus, given forth by the ſame Spirit, though through another Veſſel.</head>
+            <p>
+               <hi>DEar Friends,</hi> we cannot but communicate part of the inlar<g ref="char:EOLhyphen"/>gedneſs of ſpirit which remains upon us to our great re<g ref="char:EOLhyphen"/>freſhing, which flowed forth in the eternal power, through the handmaid of the Lord <hi>Mary Page,</hi> Wife to <hi>William Page</hi> of <hi>Wellingborough</hi> in the County of <hi>Northampton,</hi> when ſhe lay upon her bed of ſickneſs at <hi>Warwick,</hi> where ſhe had been (and then was) a Priſoner, during the ſpace of one year, eleven moneths and upwards, for the Teſtimony of the Name of the Lord; which faithful Teſtimony ſhe had ſealed with her blood, to the joy of all that beheld her innocent paſſage in the power of the eternal God. Oh! <hi>Dear Friends,</hi> we can expreſs but little of what our eyes did ſee, and our ears did hear of the enlargedneſs of the pourings forth of the Spirit of the Lord through his Handmaid; who in great power exhorted all to be faithful in abiding in the Covenant of Light, and to be truly obedient in the meek, lowly, humble, and ſelf-denying Spirit of our Lord Jeſus, that in the pure love &amp; Righteouſneſs of God all the dear Babes and Children of our Father might live in pure union with the Lord, and one with an<g ref="char:EOLhyphen"/>other, to bear a bold and faithful Teſtimony for the Lord, what ever become of the body, it would be well every way, both to the inward and outward man, and to the praiſe and glory of the Lord for ever. And many times when ſhe ended her Exhortation, ſhe poured forth her ſpirit in ſupplication to the Lord, with great fervency. <q>Oh! thou powerful God who is the ſearcher of all hearts, behold thy Handmaid, and if there be any thing that is not up<g ref="char:EOLhyphen"/>right
+<pb n="2" facs="tcp:151302:2"/>before thee in the heart of thy Handmaid, make it known unto me thou ſearcher of Hearts, for thou knoweſt I delight to ſtand approved in thy ſight in all my ways; for thou art my dear Father, and haſt not failed thy Handmaid in what ever thou haſt called me to unto this day; but thy Preſence hath attended me and comforted me through every trial, and beſetment, that the enemy of my Soul hath compaſſed me about with<g ref="char:EOLhyphen"/>al. Oh! bleſſed God how haſt thou kept and preſerved me to thy ſelf, and through the power of the Lord Jeſus Chriſt hath made me to trample upon the enemy of my Souls peace: Therefore, in the name and power of the Lord Jeſus Chriſt doth my Soul praiſe thee O my God for my pre<g ref="char:EOLhyphen"/>ſervation, in the power and authority of thy ſpirit, to bear my faithful Teſtimony for thee my God, all my days untill I have finiſhed my courſe in thy will, Oh Lord my ſtrength and life for ever and ever. And dear Father look upon thy poor oppreſſed ones that have no life, but in thee; Oh how do they cry in the ſence of their miſery; Lord help o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we die: Oh! Lord thou knows their neceſſities, and their wants are not hid from thee whoſe Righteouſneſs without thee is as filthy rags; therefore do they cry unto thee, nothing will ſatisfie them but thy preſence: Oh! power<g ref="char:EOLhyphen"/>ful Father raiſe up thy own begotten in the power and authority of the Lord Jeſus Chriſt, to reign over all its beſetments, that the Mourner may rejoyce, and the bowed down head may be lifted up, and every hun<g ref="char:EOLhyphen"/>gry and thirſty Soul ſatisfied with the bread and water of Life, which thou freely handeſt forth by the hand of our <hi>Mediator</hi> Chriſt Jeſus our Lord; not for any thing that we have done or do, but for thy own name ſake, that all fleſh and boaſting may be laid in the duſt, and all Crowns caſt down before thee, that thou alone may have all the glory, whoſe right it is over all ſaith my Soul, for ever and ever: and yet notwithſtanding that all we have, or receive is in thy free mercy in Chriſt Jeſus, yet this giveth not any liberty to ſin: Oh! Lord thou knoweſt, but rather en<g ref="char:EOLhyphen"/>gageth us that are born again, to abhor our ſelves and to ſtand upon our watch diligently, that the enemy may not enter with any of his wiles to cauſe us to abuſe thy Grace and free mercies, which thou haſt ſo freely ma<g ref="char:EOLhyphen"/>nifeſted to us in the name of the Lord Jeſus, when we had not any power to help our ſelves: therefore doth my ſoul with the ſouls of thy dear and faithful Children cry unto thee to keep us pure in thy holy power, that in meekneſs and true ſincerity of heart we may wait upon thee, and he obedient in what ever thou calls us unto, even to the loſs of Husband, or Wife, or Children, or what ever elſe thou requireſt, if it be to the laying down of the outward man for thy glorious Truth; it will be well every
+<pb n="3" facs="tcp:151302:2"/>way with all that have not any comfort or help but in thee, thou ever<g ref="char:EOLhyphen"/>living God, to whom be all Glory and Honour for ever. And holy glori<g ref="char:EOLhyphen"/>ous Father of life, bleſs and preſerve all thy people that make mention of thy holy and eternal truth, here and here away, and all my fellow Pri<g ref="char:EOLhyphen"/>ſoners, with all thy ſuffering memb<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> every where, and my dear Huſ<g ref="char:EOLhyphen"/>band and Children, God bleſs and preſerve them, and take care of them; Oh! my God do well for them every way, in keeping them faithful with my own ſoul unto the end of our days, whether they be few or many, thy will be done. Oh! thou holy eternal God keep thy dear Children from whence I came; Oh! Lord then knows how dear they are to me, but I commit them wholly to thy care Oh my God; whom I know certainly will never fail them that are of an upright heart, and cannot be ſatisfied but with thy living eternal preſence in the Lord Jeſus, to whom I com<g ref="char:EOLhyphen"/>mit them all if I never ſee their faces in the outward any more; I know it will be well both with me and them, as we give up unto thee, to be or<g ref="char:EOLhyphen"/>dered according to thy will, our little time we have here to be upon the Earth; to the glory and honour of thy great name, thou everlaſting glo<g ref="char:EOLhyphen"/>rious Father of life, to whom alone it doth belong, ſaith my ſoul with the ſouls of all thy beloved and faithful Children and ſervants that thou haſt choſen to glorifie thee, who alone is God over all bleſſed for ever, and for evermore.</q>
+            </p>
+            <p>And when ſhe had done, a Friend asked her how ſhe did? She ſaid, <hi>I am weak, but I would go home.</hi> What to thy Eternal home? She ſmiled and ſaid, <hi>yea, when it pleaſeth my Heavenly Father.</hi> Her tender and loving Husband being there with her drew near unto her, and ſhe in much love ſtroked him on the face with her hand, when tears trickled down his cheeks; but after a little time put him from her; and Friends weeping by her, ſhe ſaid, <hi>give me up freely into the armes of my Heavenly Father:</hi> And ſhe ſpoke no more but within a little time finiſhed her courſe with joy, and laid down her body in peace near to the fourth hour in the morning the 17. day of the tenth Moneth, 1665.</p>
+            <p>We who were with her when ſhe finiſhed her days and are witneſſes of what is here written, and of much more that paſſed through our dear Siſter; we are much preſſed in our Spirits that this might be ſent amongſt Friends<g ref="char:punc">▪</g> that you might be comforted as we have been very largly in the time of her weakneſs in the body; yet God renewed his life (we may ſay) hourly in her, to her great refreſhment, and alſo to all that came about her, and
+<pb n="4" facs="tcp:151302:3"/>to us who was much with her all the time ſhe lay weak in body. Whoſe Names are under written,</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Bridget Nichols.</item>
+                     <item>Hanna Whitehead.</item>
+                     <item>Anne Clabin</item>
+                     <item>Elizabeth Nichols.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="Christian_exhortation">
+            <head>An Exhortation to all Friends to dwell in the Croſs of our Lord Jeſus Chriſt.</head>
+            <p>ANd I in ſome meaſure being ſenſible of the ſore travel and deep exerciſes that this Handmaid of the Lord paſſed through with joy and a willing mind to ſerve the Lord in all true obedience, what ever ſhe endured outwardly; and ſhe hath often ſaid that would be enough to her; and I cannot but deſire that I may wait upon the Lord to finiſh my days in the ſame faithfulneſs, dwelling continually in the pure ſelf-denying life; and alſo exhort all who have in any meaſure taſted of the goodneſs and tender mercies of our God to wait to dwell in the Croſs of our Lord Jeſus Chriſt, which will lead perfectly into the way of ſelf-denial, where for ever as we dwell and walk, we ſhall lay down our heads in peace in the appointed ſeaſon of our God, as his dear ſervant and faithful handmaid hath now done.</p>
+            <p>Oh! you dear and tender ones, wait ye diligently upon the Lord, that you may feel a true growth in the ſame life; for I know right well it was ever the deſire of the ſoul of the Handmaid of the Lord, who is now gone to reſt with him, that all might par<g ref="char:EOLhyphen"/>take of the ſame comforts and true refreſhings that ſhe was com<g ref="char:EOLhyphen"/>forted and refreſhed with; yea, and much more abundantly it hath often been her cry unto the Lord in the earneſt deſire of her ſoul and ſpirit, that all the Children of the Lord might be filled with his bleſſed eternal Preſence: But dear Babes it's known unto you all, as you wait diligently upon the Lord in the light of his Son, you will ſee that it's through great tribulation that the Kingdom is to be entred; therefore you dear ones, let the Croſs of our Lord Jeſus Chriſt be willingly taken up unto all ſelf and every
+<pb n="5" facs="tcp:151302:3"/>ſelfiſh deſire: Oh! let not the cumbers of this World, nor the delights nor pleaſures thereof (I dearly beſeech you) hinder you of this bleſſed peace and large poſſeſſion which is laid up in Chriſt Jeſus our Lord, for all thoſe who is willing to deny themſelves, (mind that, we muſt deny our ſelves) and take up the Croſs un<g ref="char:EOLhyphen"/>to every ſelfiſh action, word and thought, and take no liberty, be<g ref="char:EOLhyphen"/>cauſe the Lord is and hath been large in his loving kindneſs, and tender mercies unto us. Oh! let not the profeſſion or ſhew, or likeneſs ſatisfie any of us, for ſurely that will ſtand in no ſtead, when trials come and exerciſes are felt on every hand; Oh! then it's known unto you my dear and tender Friends that there is no<g ref="char:EOLhyphen"/>thing can then ſtand but what is aſſuredly built upon the Rock of Ages; ſo in tender bowels of love I entreat and beſeech you let not <hi>lukewarmneſs</hi> be found in any of you, for that is loathſom to our God: Oh! wait, yea wait ye diligently upon the Lord; yea, <hi>watch and pray continually leaſt at any time ye enter into temptation:</hi> Oh! the danger that there is on every hand, and the by-paths that the enemy lieth ready to lead into continually; ſurely when I behold them, the ſight thereof makes me ready to tremble, leaſt I ſhould at any time be betrayed and drawn aſide from the Preſence of the pure God; and ſurely I know no other way to walk in ſafe<g ref="char:EOLhyphen"/>ty, but in the daily Croſs of our Lord Jeſus Chriſt, which will lead truly all that are willing to walk therein into the way of ſelf<g ref="char:EOLhyphen"/>denial, and then aſſuredly Friends as we are eſtabliſhed or wait upon the Lord to be eſtabliſhed therein, <hi>nothing can harm us.</hi> Oh! let the Croſs be as dear unto us now as ever, and let not the wiſ<g ref="char:EOLhyphen"/>dom of fleſh any ways hinder us, or any thing whatſoever prevent us for walking therein. Oh! let not any thing that hath been <hi>done</hi> by any of us,<hi>ſuffered</hi> or paſſed <hi>through</hi> in any exerciſe or trial whatſoever for the name of our Lord Jeſus and his bleſſed truth ſake, be accounted of any value by us, for ſurely if it be it will ſtop our paſſage and become a great hindrance of our entrance in<g ref="char:EOLhyphen"/>to the Land of reſt, ſo it's good for us all to preſs forward on our journey, leaving all behind as a thing of nought, that we may feel the incomes of Gods pure precious life daily, that thereby our ſtrength may be renewed in him day by day; for as the <hi>Manna</hi> in the days of old could ſerve the Children of <hi>Iſrael</hi> no more but for the day, no more will now the feeding of the eternal food yeſterday ſerve the true child for to day; therefore there is a
+<pb n="6" facs="tcp:151302:4"/>great neceſſity for us to wait diligently upon the Lord to re<g ref="char:EOLhyphen"/>ceive every day from his own hand, <hi>of the bread which never faileth,</hi> thoſe who are willing to wait upon the Lord to feed thereon; but truly the enemy lieth ſo exceeding near to draw forth the mind into one thing or other, that if we keep not diligently upon our watch, that the fear and dread of the Lord God may be truly pla<g ref="char:EOLhyphen"/>ced in our hearts and be continually before our eyes. Oh! the looſeneſs of life yea and lightneſs of words and fooliſh actions, if liberty be taken that the enemy will draw into I can ſay it of a truth to the grief of my ſoul, but my dear and tender Friends, do but conſider a little, and in the cool of the day you will hear the true birth cry, and feel it ſorely grieved, becauſe of its great oppreſſion and great want, yea and becauſe its ready to be famiſh<g ref="char:EOLhyphen"/>ed with hunger, for ſurely there is not any thing that can ſatisfie the true child, but the ſtreams of the love of our God which runs freely unto it, except it be damm'd from it by our yielding to the enemy of our ſouls peace, for want of true watchfulneſs to the light of the Lord Jeſus, and not walking in the daily Croſs; but ſurely its the deſire of my ſoul that I may walk in the daily croſs of our Lord Jeſus Chriſt whilſt I am, and I know it was the true deſire of the ſoul of the ſervant of the Lord who is gone to reſt with him, that ſhe might all her days wait and walk therein, that ſhe might follow the Lord in the leadings of his pure pretious life, what ever became of her body, and as for her own ſoul (I can ſay of a truth) her deſires were really for all Gods dear and tender Children. Oh! you dear and tender ones the true breathings of my life is truly unto the Lord for you, as for my own ſoul like<g ref="char:EOLhyphen"/>wiſe, whoſe breathing thirſtings, and true hungrings hath been after the Lord, that they might be continued, and that we might dwell together in the true poverty of our ſpirits, and then our wants will be known unto the all-ſeeing God, and he will relieve according to every neceſſity, and then ſhall we travel on our journey with chearfulneſs, ſubmitting to our God in all things, with joy and a willing mind, to bear forth our faithful teſtimony for him in what ever he calls unto, having our eye continually ſet towards him, and to know the eye to ſelf truly put out: Oh ſurely Friends this is the way to eternal reſt, and there's no other beſides it: So ye dear and tender babes wait ye diligently to walk therein, that the Lord our God may be glorified; ſurely this was
+<pb n="7" facs="tcp:151302:4"/>the very end for which we were called and gathered out of the pollutions of the World, that we might ſerve our God in truth and ſingleneſs of heart, and not that we ſhould count the Croſs of Chriſt of no value, or that we ſhould return again to any manner of thing which we were gathered from, or take liberty to the fleſh, or the deſires or delights thereof, more then at the firſt, when our faces were turned toward our maker, but that the ſame dread and fear of the Lord ſhould be placed in our hearts, for aſ<g ref="char:EOLhyphen"/>ſuredly the Croſs is the ſame, and the power is the ſame, and the Word is the ſame, which ſaith, <hi>ſeek the Kingdom of God and the Righteouſneſs thereof, and all other things ſhall be added unto you.</hi> Oh! you dear ones what need is here of having an eye to ſelf, ſurely we may be willing that that ſhould be put out, and that the Lord our God may be glorified in all that we do, and we his Children comforted, and in his dread and pure fear preſerved whil'ſt we have a being, and then aſſuredly ſhall we lay down our heads in peace (as our dear Friend and the true Handmaid of the Lord hath done) in the appointed ſeaſon of our God; ſo to the Croſs of our Lord Jeſus Chriſt, where the deſire of my ſoul is to dwell I commit my ſelf and you all therein to walk, dwell and abide, wherein is our true ſafety, and our ſoul ſatisfying life poured forth abundantly, that when it is felt, we can ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y I know in the authority and ſtrength of the Almighty; O man where is thy ſtrength or power now, or what can it reach unto, ſurely here are we foulded up in the armes of our God, where none that ſeek to deſtroy can reach us, and as we dwell here, there's not any can touch a hair further then our God permits them; ſurely what ever comes to us here, it's but for the trial of our faith and patience, and then ſurely ſaith my Soul, <hi>I will dwell with my Redeemer, I will not part from him, what ever the body ſuffers, I will follow the Lord in the Croſs of our Lord Jeſus Chriſt, which will lead me truly to deny my ſelf, and then my God cannot deny his own as I wait ſingly upon him therein:</hi> So the Lord God of Heaven and Earth keep me to watch unto him, and to wait in the true and naked ſimplicity of my heart upon him: and you dear ones; the ſame breathings unto the Lord my God is for you all, that in the power and bleſſed authority of his own life, we may for ever be bound up together in the unity of his bleſſed eternal Spirit, to the Glory, Honour and Praiſe of the name of our God,
+<pb n="8" facs="tcp:151302:5"/>and to the exalting of his pure, e<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rnal, bleſſed truth, ſaith the Soul and Spirit of your Friend, and a Brother to all that is born or waits to be born into the pure ſelf-denying life of our God.</p>
+            <closer>
+               <signed>Daniel Wills.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
